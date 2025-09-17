@@ -44,7 +44,7 @@ Reportes visuales para monitorear KPIs clave.
 
 📸 Ejemplo de análisis de rotación y mercadería lenta:
 
-
+![Control de Stock](fotos/analisis_rotacion.PNG)
 
 ---
 
