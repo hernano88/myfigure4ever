@@ -67,12 +67,12 @@ Base sólida para proyecciones de demanda y análisis de pricing.
 ---
 
 📊 KPIs Clave
-- Ingresos**, **COGS** y **Margen** (bruto / neto) por SKU, lote y canal
-- ROI por ítem** y **payback** de cada lote
-- Rotación** e **inventario envejecido** (30/60/90/120+ días)
-- Aged stock value** y alertas de **slow movers**
-- Tasa de conversión** y **ticket promedio** por canal
-- Cash conversion cycle** (caja invertida → caja cobrada)
+- Ingresos, COGS y Margen (bruto / neto) por SKU, lote y canal
+- ROI por ítem y payback de cada lote
+- Rotación e inventario envejecido (30/60/90/120+ días)
+- Aged stock value y alertas de slow movers
+- Tasa de conversión y ticket promedio por canal
+- Cash conversion cycle (caja invertida → caja cobrada)
 
 ---
 
