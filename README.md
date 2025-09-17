@@ -38,7 +38,7 @@ Reportes visuales para monitorear KPIs clave.
 
 📸 Ejemplo del dashboard de control de stock y márgenes:
 
-fotos/control_stock.PNG
+![Control de Stock](fotos/control_stock.PNG)
 
 ---
 
