@@ -48,9 +48,9 @@ Reportes visuales para monitorear KPIs clave.
 
 ---
 
-📸 Ejemplo de márgenes por producto/lote:
+📸 Ejemplo de historico ventas:
 
-
+![Control de Stock](fotos/historico_ventas.PNG)
 
 ---
 
